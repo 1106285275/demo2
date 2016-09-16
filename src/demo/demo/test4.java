@@ -39,6 +39,6 @@ class Opreation{
 	public  void get(Map map){
 		Integer data = (Integer) map.get(Thread.currentThread());
 		System.out.println(Thread.currentThread().getName()+"....has get..."+data);
-		System.out.println(Thread.currentThread().getName()+"....has mmmm get..."+data);
+		System.out.println(Thread.currentThread().getName()+"....has mmmmnnn get..."+data);
 	}
 }
