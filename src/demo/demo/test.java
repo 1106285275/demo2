@@ -13,7 +13,7 @@ public class test {
 class Parent{
 	private String name;
 	public Parent(){
-		System.out.println("none.....");
+		System.out.println("none11.....");
 	}
 	public Parent(String name){
 		this.name = name;
